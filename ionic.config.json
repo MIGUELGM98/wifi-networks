@@ -1,0 +1,7 @@
+{
+  "name": "wifi",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
